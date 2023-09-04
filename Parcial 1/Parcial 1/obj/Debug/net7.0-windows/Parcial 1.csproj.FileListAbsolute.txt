@@ -1,0 +1,21 @@
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\bin\Debug\net7.0-windows\Parcial 1.exe
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\bin\Debug\net7.0-windows\Parcial 1.deps.json
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\bin\Debug\net7.0-windows\Parcial 1.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\bin\Debug\net7.0-windows\Parcial 1.dll
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\bin\Debug\net7.0-windows\Parcial 1.pdb
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\bin\Debug\net7.0-windows\libreriaDocumentos.dll
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\bin\Debug\net7.0-windows\libreriaDocumentos.pdb
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial_1.Form1.resources
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial_1.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.csproj.CopyComplete
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.dll
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\refint\Parcial 1.dll
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.pdb
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\Parcial 1.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\Parcial 1\obj\Debug\net7.0-windows\ref\Parcial 1.dll

@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\bin\Debug\net7.0\libreriaDocumentos.deps.json
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\bin\Debug\net7.0\libreriaDocumentos.dll
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\bin\Debug\net7.0\libreriaDocumentos.pdb
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\libreriaDocumentos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\libreriaDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\libreriaDocumentos.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\libreriaDocumentos.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\libreriaDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\libreriaDocumentos.dll
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\refint\libreriaDocumentos.dll
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\libreriaDocumentos.pdb
+C:\Users\MINEDUCYT\Documents\POE\Parcial 1\libreriaDocumentos\obj\Debug\net7.0\ref\libreriaDocumentos.dll
